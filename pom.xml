@@ -251,7 +251,7 @@
                 </plugin>
                 <plugin>
                     <artifactId>maven-plugin-plugin</artifactId>
-                    <version>3.15.1</version>
+                    <version>3.15.2</version>
                     <configuration>
                         <detail>true</detail>
                         <skipErrorNoDescriptorsFound>true</skipErrorNoDescriptorsFound>
